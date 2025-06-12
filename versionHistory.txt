@@ -1,0 +1,24 @@
+=> Developer/ Founder : 
+	Tim Berner's Lee.
+	
+=> Version of HTML : 
+	HTML 1.0  --> 1991
+	     1.1   
+
+	HTML 2.0  --> 1995
+	     2.1
+	
+	HTML 3.0  --> Jan,1997
+
+	HTML 4.0  --> Dec,1997
+		  --> 2000
+
+	HTML 5.0  --> 2014
+	     5.2  --> 2017
+
+===================================
+Check Error  : 
+	https://validator.w3.org/
+
+
+		

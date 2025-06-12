@@ -1,0 +1,37 @@
+=> Web Development  :-
+   -----------------
+-> 	1.Website. 
+	2.WebApp.
+
+	Basic : 
+		1. HTML  :  Hyper Text Markup Language.
+			 -> To Create a Structure of Website.
+
+		2. CSS   :  Cascading Style Sheet.
+			 -> To Design a Structure.
+
+		3. JS    :  JavaScript. 
+			 -> Functionalities.
+==================================================
+=> What is HTML ? 
+----------------
+-> HTML stands For Hyper Text Markup Language
+
+
+Use : 
+	To Create a Structure of Website/Webpage.
+		- Webpage : Single HTML File.
+		- Website : Collection of Multiple Webpages/HTML Files.
+
+======================================
+	1. Hyper Text.
+		- Hyper  : (Link)  (depends on Text)
+		- Text   : Content (texture,images, etc)
+	2. Markup Language.
+		- text Encoding System.
+=======================================
+Note : No Error Detect/Show
+=======================================
+Extension : 
+	1. .html(new)
+	2. .htm (old)
