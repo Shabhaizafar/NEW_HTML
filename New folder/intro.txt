@@ -1,0 +1,104 @@
+=> Web development  :-
+	1. create a Website.
+	2. create a WebApp.
+	
+		Basic : 
+				1. HTML   : hyper text markup language 
+					- Create a Structure of Webpage/Website.
+				2. CSS    :   Cascading Style Sheet 
+					- to design a Structure 
+				3. JS   :   JavaScript 
+					- add functionality 
+
+
+=> Job Position : 
+1. Front-end Developer :-
+	-> 	HTML,CSS,JS,React,Bootstrap,Tailwind CSS etc
+
+2. Back-end Developer :-
+	->   CPP ,JAVA ,PYTHON, NODEJS , .net ,PHP etc
+
+3. Full-stack Developer :-
+	-> Front-end + Backend Developer  + DB (Database)
+
+4. MERN Stack Developer :-
+	M:  MongoDB
+	E :  ExpressJs 
+	R : ReactJs 
+	N : NodeJs 
+
+5. MEAN Stack Developer :-
+	M:  MongoDB
+	E :  ExpressJs 
+	A : AngularJs  
+	N : NodeJs 
+
+
+extra :  Software engineer/developer.
+	    Java developer.
+
+=======================================================
+=> What is HTML ? 
+-> HTML stands for "Hyper Text Markup Language".
+
+
+=> Use : 
+	to create a Structure of webpage/website.
+		webpage :  single HTML File.
+		website : Collection of Multiple Webpage/HTML Files.
+
+
+1. Hyper Text :
+	hyper  : hype   (linking)   (depends on Text)
+	text :  content (texture, image etc)
+2. Markup Language :
+	- text-encoding System.  
+
+==================================================
+=> Extension : 
+	1. .html (newer) 
+	2. .htm (older)
+
+=============================================
+=> Version of HTML : 
+-> Founder/Developer/Creator : Tim Berners Lee.
+
+	HTML 1.0  --> 1991.
+		   1.2
+
+	HTML 2.0 --> 1995
+		   2.1
+
+	HTML 3.0 --> Jan,1997
+
+	HTML 4.0  --> Dec,1997
+		   4.1
+			--> 2000
+
+	HTML 5  --> 2014
+		  5.2 --> 2017
+=============================================
+
+=> Structure  of HTML : 
+
+<!doctype html>    (version of HTML)
+<html>			(starting of HTML Tag)   (this is First Tag)  ( Root Tag/Element )
+	<head>		(starting of HEAD Tag)
+		<title>	(starting of TITLE Tag)
+			
+		</title>	(ending of TITLE Tag)
+	</head>		(ending of HEAD Tag)
+	<body>		(starting of BODY Tag)
+
+	</body>	        (ending of BODY Tag)
+</html>  			(ending of HTML Tag)
+
+
+
+<!doctype html>
+<!DOCTYPE html>
+<!DOCtyPE html>
+
+
+
+

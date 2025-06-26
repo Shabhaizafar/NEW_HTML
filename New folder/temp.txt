@@ -1,0 +1,30 @@
+-> Neha 
+-> Aneri 
+-> Adhya 
+-> Jayati
+
+
+=>  Std 8
+    -> Std 8 (A)
+        1 Neha
+        2 Aneri
+        3 Adhya 
+
+    -> Std 8 (B)
+    -> Std 8 (C)
+=>  Std 9
+    -> Std 9 (A)
+    -> Std 9 (B)
+    -> Std 9 (C)
+=>  Std 10
+    -> Std 10 (A)
+    -> Std 10 (B)
+    -> Std 10 (C)
+=>  Std 11
+    -> Std 11 (A)
+    -> Std 11 (B)
+    -> Std 11 (C)
+=>  Std 12
+    -> Std 12 (A)
+    -> Std 12 (B)
+    -> Std 12 (C)
