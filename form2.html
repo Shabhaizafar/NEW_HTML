@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Tag</title>
+</head>
+<body>
+    <form>
+        First Name : <input type="text" name="fname" value="InBuit">
+        <br><br>
+        Single Choice : 
+        <br><br>
+        <fieldset>
+            <legend>Gender : </legend>
+        <input type="radio" name="gender" value="male"> Male 
+                 <input type="radio" name="gender"> Female
+                 <input type="radio" name="gender"> Not Listed 
+            </fieldset>
+        <br><br>
+        Multiple Choice : 
+        <br><br>
+        Hobbies : 
+        <input type="checkbox" name="hobby1" value="cricket"> Cricket 
+        <input type="checkbox" name="hobby2" value="football"> Football 
+        <input type="checkbox" name="hobby"> Sleeping
+        <br><br>
+        
+        Courses : 
+        <select name="course">
+            <option value="CE">CE</option>
+            <option value="IT">IT</option>
+        </select>
+        <br><br>
+        
+        <input type="color" name="fvrt" value="#ffff00">
+        <br><br>
+      
+        Upload File : <input type="file" name="file">
+        <br><br>
+        
+        Country : 
+        <select name="country">
+            <option value="ind">India</option>
+            <option value="uk">UK</option>
+        </select> 
+        <br>
+        <input type="text" name="country" list="mylist">
+        <datalist id="mylist">
+            <option value="ind">
+            <option value="uk">
+            <option value="nz">
+        </datalist>
+          <br> 
+          <input type="range" name="value" min="1" max="10">
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
+</body>
+</html>
+
+
+<!-- text,email,number,date,time,datetime-local,week,month,submit -->
