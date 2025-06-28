@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Custom Form Design</title>
+</head>
+<body>
+
+  <h2>Registration Form</h2>
+  <form>
+
+    <!-- Basic Info -->
+    <fieldset>
+      <legend>Basic Information</legend>
+      Full Name: <input type="text" name="fname" value="Your Name">
+      <br><br>
+
+      Favorite Color: <input type="color" name="fvrt" value="#00ffcc">
+    </fieldset>
+    <br>
+
+    <!-- Gender Radio -->
+    <fieldset>
+      <legend>Gender</legend>
+      <input type="radio" name="gender" value="male"> Male 
+      <input type="radio" name="gender" value="female"> Female 
+      <input type="radio" name="gender" value="other"> Not Listed 
+    </fieldset>
+    <br>
+
+    <!-- Hobbies Checkboxes -->
+    <fieldset>
+      <legend>Select Your Hobbies</legend>
+      <input type="checkbox" name="hobby1" value="reading"> Reading 
+      <input type="checkbox" name="hobby2" value="music"> Music 
+      <input type="checkbox" name="hobby3" value="travel"> Travel
+    </fieldset>
+    <br>
+
+    <!-- Course Dropdown -->
+    <label for="course">Select Course:</label>
+    <select name="course" id="course">
+      <option value="CS">Computer Science</option>
+      <option value="EE">Electrical Engineering</option>
+    </select>
+    <br><br>
+
+    <!-- Country with datalist -->
+    <label for="country">Choose Country:</label>
+    <input type="text" name="country" list="countrylist" placeholder="Start typing...">
+    <datalist id="countrylist">
+      <option value="USA">
+      <option value="Canada">
+      <option value="Germany">
+    </datalist>
+    <br><br>
+
+    <!-- File Upload -->
+    Upload Resume: <input type="file" name="file">
+    <br><br>
+
+    <!-- Range Input -->
+    Rate Our Form: <input type="range" name="value" min="1" max="10">
+    <br><br>
+
+    <!-- Submit and Reset -->
+    <input type="submit" value="Register">
+    <input type="reset" value="Clear">
+
+  </form>
+
+</body>
+</html>
