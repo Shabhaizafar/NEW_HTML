@@ -1,0 +1,18 @@
+Introduction of Webdevelopment 
+Structure of HTML 
+Basic Tags
+Image Tag 
+Audio Tag 
+Video Tag 
+Youtube Video 
+Google Map 
+Anchor Tag 
+Marquee Tag 
+List Tag 
+Project 1 (Hotel Menu -1)
+Project 2 (Anchor Tag)
+Table Tag
+Form Tag 
+Iframe Tag 
+Picture Tag 
+Figure Tag 
